@@ -1,0 +1,12 @@
+{
+  "name": "gama-studies",
+  "displayName": "gama-studies",
+  "expo": {
+    "name": "gama-studies",
+    "slug": "gama-studies",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
